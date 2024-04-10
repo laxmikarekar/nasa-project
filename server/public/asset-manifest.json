@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/static/js/main.bbc9b750.js",
+    "index.html": "/index.html",
+    "main.bbc9b750.js.map": "/static/js/main.bbc9b750.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bbc9b750.js"
+  ]
+}
